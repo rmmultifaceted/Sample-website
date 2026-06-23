@@ -1,2 +1,4 @@
 # Sample-website
-For GitHub training
+This is a description
+
+this is **bold text**
